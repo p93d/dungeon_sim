@@ -6,8 +6,6 @@ import dash_bootstrap_components as dbc
 from httplib2 import FailedToDecompressContent
 import app_tools
 import numpy as np
-import pandas as pd
-from threading import Thread
 
 
 
