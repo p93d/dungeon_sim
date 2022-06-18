@@ -8,5 +8,6 @@ dash-html-components==2.0.0
 dash-renderer==1.8.2
 dash-table==5.0.0
 Flask==1.1.1
+Jinja2==3.0.1
 numpy==1.21.0
 plotly==5.8.0
