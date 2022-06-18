@@ -16,6 +16,7 @@ app = dash.Dash(__name__,
 
 app.title = 'Dungeon Simulator'
 
+server=app.server
 
 
 
