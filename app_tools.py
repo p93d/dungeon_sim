@@ -1,8 +1,7 @@
 from dataclasses import dataclass
 from dash import dcc, html
 import numpy as np
-import pandas as pd
-from threading import Thread
+
 
 
 
