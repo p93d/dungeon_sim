@@ -1,5 +1,5 @@
 customtkinter==3.11
-gunicorn
+gunicorn==20.1.0
 dash==2.4.1
 dash-bootstrap-components==1.1.0
 dash-core-components==2.0.0
